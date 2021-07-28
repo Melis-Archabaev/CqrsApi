@@ -7,9 +7,5 @@ using System.Threading.Tasks;
 
 namespace CqrsApi.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class HomeController : ControllerBase
-    {
-    }
+
 }
